@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "Private zone. Only for administrator!"
+AuthUserFile C:\Users\Мария\Desktop\openserver\OSPanel\domains\prog.local\admin\.htpasswd
+require user admin root
